@@ -1,7 +1,35 @@
 /* style.css */
 
-h1 {
+.header {
     color: blueviolet;
     font-size: 25px;
     text-align: center;
+}
+
+.list {
+    color: chocolate;
+}
+
+a {
+background-color: aqua;
+}
+
+h2 {
+    font-size: 20px;
+    color: burlywood;
+    text-align: center;
+}
+
+img {
+    width: auto;
+    height: 400px;
+}
+
+ul {
+    background-color: coral;
+    font-weight: 700;
+}
+
+.odd {
+    background-color: darkgoldenrod;
 }
